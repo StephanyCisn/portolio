@@ -1,36 +1,28 @@
 export const projects = [
   {
     title: "Pomodoro Timer",
-    subtitle: "MERN Stack",
+    subtitle: "JavaScript, React, React Hooks (useState), HTML, and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Built a productivity timer based on the Pomodoro technique using React and React hooks",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://pomodoro-ochre.vercel.app/",
   },
   {
     title: "Grubdash",
-    subtitle: "React and Python",
+    subtitle: "Node.JS and Express",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "-Built an API - defining routes, URL’s and middleware to perform CRUD operations on dishes and orders resources. Routes: /orders and /dishes provide information on resources",
     image: "./project-2.gif",
     link: "https://grubdash-fb47.onrender.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Restaurant Reservation System",
+    subtitle: "PERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This application is for creating and managing tables and reservations for a hypothetical restaurant.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+    link: "https://restaurant-reservation-frontend-6j8c.onrender.com/dashboard",
+  }
 ];
 
 
