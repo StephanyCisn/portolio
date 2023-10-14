@@ -7,8 +7,8 @@
     "@heroicons/react": "^1.0.1",
     "autoprefixer": "^9.8.8",
     "postcss": "^7.0.39",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "^1.1.5",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   },
@@ -26,7 +26,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "craco.config.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
